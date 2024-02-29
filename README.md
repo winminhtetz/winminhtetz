@@ -1,5 +1,6 @@
-<img src = "https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40"></img>Hello! It'z me, [Win Min Htet](https://www.facebook.com/winminhtetz) aka Badazz_Harry.
 
+<h2><img src ="https://c.tenor.com/yZUl-zqUbqMAAAAC/tenor.gif" width="80"></img> Hello! It'z Badazz </h2>
+<!-- <img src = "https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40"></img> --> 
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=winminhtetz&show_icons=true&theme=cobalt&hide_border=true" />
