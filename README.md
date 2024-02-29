@@ -1,6 +1,6 @@
-
-<h2><img src ="https://c.tenor.com/yZUl-zqUbqMAAAAC/tenor.gif" width="80"></img> Hello! It'z Badazz </h2>
+<h1><img src ="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="80"></img> Hello! It'z Badazz </h1>
 <!-- <img src = "https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" width="40"></img> --> 
+<!-- https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif -->
 <br/>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=winminhtetz&show_icons=true&theme=cobalt&hide_border=true" />
